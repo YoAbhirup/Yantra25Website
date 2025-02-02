@@ -156,6 +156,10 @@ export default function IdeaSubmission(){
                 <a href="https://drive.google.com/file/d/1fQ0uMsRqQU6vuXFvhrbSmzxJztwYO6uy/view?usp=drive_link" target="_blank" className="hover:text-orange-500 underline" style={{transition:"0.3s"}}>Download</a>
             </div>
             <div className="flex flex-row text-white justify-between ml-96 mr-96" style={{fontSize:"2vw"}}>
+                <div>DE2_115_pin assignements</div>
+                <a href="https://drive.google.com/file/d/1EInot605S07MuusxjjK9odL3gUCi3mex/view?usp=drive_link" target="_blank" className="hover:text-orange-500 underline" style={{transition:"0.3s"}}>Download</a>
+            </div>
+            <div className="flex flex-row text-white justify-between ml-96 mr-96" style={{fontSize:"2vw"}}>
                 <div>Inventory list</div>
                 <a href="https://drive.google.com/file/d/17kNdMOqKg509LeGAFIghD0eFo-hpyIzF/view?usp=drive_link" target="_blank" className="hover:text-orange-500 underline" style={{transition:"0.3s"}}>Download</a>
             </div>
