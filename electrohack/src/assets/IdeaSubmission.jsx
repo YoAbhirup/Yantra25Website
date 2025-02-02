@@ -130,7 +130,7 @@ export default function IdeaSubmission(){
             <div className="flex flex-row text-white justify-between ml-24 mr-24" style={{fontSize:"2vw"}}>
                 <div>9.</div>
                 <div>The Jharkhand Case Study</div>
-                <a href="hhttps://drive.google.com/file/d/169FMZ_G3BWHIhrNxeZxiTzCaYDLIYzS0/view?usp=drive_link" target="_blank" className="hover:text-orange-500 underline " style={{transition:"0.3s"}}>Check it out</a>
+                <a href="https://drive.google.com/file/d/169FMZ_G3BWHIhrNxeZxiTzCaYDLIYzS0/view?usp=drive_link" target="_blank" className="hover:text-orange-500 underline " style={{transition:"0.3s"}}>Check it out</a>
             </div>
             <div className="flex flex-row text-white justify-between ml-24 mr-24" style={{fontSize:"2vw"}}>
                 <div>10.</div>
